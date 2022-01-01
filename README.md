@@ -1,8 +1,7 @@
 ### Olá, eu sou o João Pedro
 
 - 🔭 Hoje trabalho com Desenvolvimento Web
-- 🙌 Atualmente trabalho com front-end
-- 🤓 Estudando Nodejs para back-end
+- 🙌 Atualmente trabalho com fullstack
 ##
 
  <div>
